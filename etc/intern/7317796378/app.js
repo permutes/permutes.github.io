@@ -1,6 +1,6 @@
 //step 1: get DOM
 var code = prompt("Enter the Code Provided by the admin: ");
-if (code != "ABCD") {
+if (code != "TVTI") {
     document.body.innerHTML = "";
     alert("Access denied: Incorrect code.");
 }
